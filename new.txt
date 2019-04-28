@@ -1,0 +1,1926 @@
+<div class="ui-window ui-window-normal ui-window-transition ui-window-shipping" data-widget-cid="widget-18" id="j-shipping-dialog" style="width: 620px; z-index: 999; left: 146px; top: 134.2px;" tabindex="-1">
+ <a class="ui-window-close" data-role="close" href="javascript:;" style="display: inline;">
+ </a>
+ <div class="ui-window-bd">
+  <div class="ui-window-content" data-role="content">
+   <div class="shipping-layer-title util-clearfix">
+    <span class="s-caption">
+     Ship my order(s) to:
+    </span>
+    <div class="s-address-selector notranslate address-selector" data-widget-cid="widget-85" id="j-address-selector">
+     <a class="address-select-trigger" data-role="country" href="#" style="width: 178px;">
+      <span class="css_flag css_bd">
+       <span class="shipping-text">
+        Bangladesh
+       </span>
+      </span>
+     </a>
+     <a class="address-select-trigger" data-role="province" href="#" style="display: none; width: 98px;">
+      <span class="shipping-text">
+      </span>
+     </a>
+     <a class="address-select-trigger" data-role="city" href="#" style="display: none; width: 98px;">
+      <span class="shipping-text">
+      </span>
+     </a>
+     <div class="address-select" data-widget-cid="widget-86" style="width: 190px; z-index: 99; display: none; position: absolute; left: -9999px; top: -9999px;">
+      <div class="filter-list-container">
+       <input class="filter-input" placeholder="Search" type="text"/>
+       <i class="seach">
+       </i>
+      </div>
+      <ul class="address-select-content" data-role="content">
+       <li class="address-select-item " data-code="af" data-defaultselected="false" data-disabled="false" data-name="Afghanistan" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_af">
+         <span class="shipping-text">
+          Afghanistan
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="ala" data-defaultselected="false" data-disabled="false" data-name="Aland Islands" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_ala">
+         <span class="shipping-text">
+          Aland Islands
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="al" data-defaultselected="false" data-disabled="false" data-name="Albania" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_al">
+         <span class="shipping-text">
+          Albania
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="gba" data-defaultselected="false" data-disabled="false" data-name="Alderney" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_gba">
+         <span class="shipping-text">
+          Alderney
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="dz" data-defaultselected="false" data-disabled="false" data-name="Algeria" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_dz">
+         <span class="shipping-text">
+          Algeria
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="as" data-defaultselected="false" data-disabled="false" data-name="American Samoa" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_as">
+         <span class="shipping-text">
+          American Samoa
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="ad" data-defaultselected="false" data-disabled="false" data-name="Andorra" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_ad">
+         <span class="shipping-text">
+          Andorra
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="ao" data-defaultselected="false" data-disabled="false" data-name="Angola" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_ao">
+         <span class="shipping-text">
+          Angola
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="ai" data-defaultselected="false" data-disabled="false" data-name="Anguilla" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_ai">
+         <span class="shipping-text">
+          Anguilla
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="ag" data-defaultselected="false" data-disabled="false" data-name="Antigua and Barbuda" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_ag">
+         <span class="shipping-text">
+          Antigua and Barbuda
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="ar" data-defaultselected="false" data-disabled="false" data-name="Argentina" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_ar">
+         <span class="shipping-text">
+          Argentina
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="am" data-defaultselected="false" data-disabled="false" data-name="Armenia" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_am">
+         <span class="shipping-text">
+          Armenia
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="aw" data-defaultselected="false" data-disabled="false" data-name="Aruba" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_aw">
+         <span class="shipping-text">
+          Aruba
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="asc" data-defaultselected="false" data-disabled="false" data-name="Ascension Island" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_asc">
+         <span class="shipping-text">
+          Ascension Island
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="au" data-defaultselected="false" data-disabled="false" data-name="Australia" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_au">
+         <span class="shipping-text">
+          Australia
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="at" data-defaultselected="false" data-disabled="false" data-name="Austria" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_at">
+         <span class="shipping-text">
+          Austria
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="az" data-defaultselected="false" data-disabled="false" data-name="Azerbaijan" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_az">
+         <span class="shipping-text">
+          Azerbaijan
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="bs" data-defaultselected="false" data-disabled="false" data-name="Bahamas" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_bs">
+         <span class="shipping-text">
+          Bahamas
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="bh" data-defaultselected="false" data-disabled="false" data-name="Bahrain" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_bh">
+         <span class="shipping-text">
+          Bahrain
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item address-select-selected" data-code="bd" data-defaultselected="true" data-disabled="false" data-name="Bangladesh" data-needchildren="false" data-role="item" data-selected="true">
+        <span class="css_flag css_bd">
+         <span class="shipping-text">
+          Bangladesh
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="bb" data-defaultselected="false" data-disabled="false" data-name="Barbados" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_bb">
+         <span class="shipping-text">
+          Barbados
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="by" data-defaultselected="false" data-disabled="false" data-name="Belarus" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_by">
+         <span class="shipping-text">
+          Belarus
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="be" data-defaultselected="false" data-disabled="false" data-name="Belgium" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_be">
+         <span class="shipping-text">
+          Belgium
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="bz" data-defaultselected="false" data-disabled="false" data-name="Belize" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_bz">
+         <span class="shipping-text">
+          Belize
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="bj" data-defaultselected="false" data-disabled="false" data-name="Benin" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_bj">
+         <span class="shipping-text">
+          Benin
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="bm" data-defaultselected="false" data-disabled="false" data-name="Bermuda" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_bm">
+         <span class="shipping-text">
+          Bermuda
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="bt" data-defaultselected="false" data-disabled="false" data-name="Bhutan" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_bt">
+         <span class="shipping-text">
+          Bhutan
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="bo" data-defaultselected="false" data-disabled="false" data-name="Bolivia" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_bo">
+         <span class="shipping-text">
+          Bolivia
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="ba" data-defaultselected="false" data-disabled="false" data-name="Bosnia and Herzegovina" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_ba">
+         <span class="shipping-text">
+          Bosnia and Herzegovina
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="bw" data-defaultselected="false" data-disabled="false" data-name="Botswana" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_bw">
+         <span class="shipping-text">
+          Botswana
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="br" data-defaultselected="false" data-disabled="false" data-name="Brazil" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_br">
+         <span class="shipping-text">
+          Brazil
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="bg" data-defaultselected="false" data-disabled="false" data-name="Bulgaria" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_bg">
+         <span class="shipping-text">
+          Bulgaria
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="bf" data-defaultselected="false" data-disabled="false" data-name="Burkina Faso" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_bf">
+         <span class="shipping-text">
+          Burkina Faso
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="bi" data-defaultselected="false" data-disabled="false" data-name="Burundi" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_bi">
+         <span class="shipping-text">
+          Burundi
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="kh" data-defaultselected="false" data-disabled="false" data-name="Cambodia" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_kh">
+         <span class="shipping-text">
+          Cambodia
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="cm" data-defaultselected="false" data-disabled="false" data-name="Cameroon" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_cm">
+         <span class="shipping-text">
+          Cameroon
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="ca" data-defaultselected="false" data-disabled="false" data-name="Canada" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_ca">
+         <span class="shipping-text">
+          Canada
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="cv" data-defaultselected="false" data-disabled="false" data-name="Cape Verde" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_cv">
+         <span class="shipping-text">
+          Cape Verde
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="bq" data-defaultselected="false" data-disabled="false" data-name="Caribbean Netherlands" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_bq">
+         <span class="shipping-text">
+          Caribbean Netherlands
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="ky" data-defaultselected="false" data-disabled="false" data-name="Cayman Islands" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_ky">
+         <span class="shipping-text">
+          Cayman Islands
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="cf" data-defaultselected="false" data-disabled="false" data-name="Central African Republic" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_cf">
+         <span class="shipping-text">
+          Central African Republic
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="td" data-defaultselected="false" data-disabled="false" data-name="Chad" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_td">
+         <span class="shipping-text">
+          Chad
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="cl" data-defaultselected="false" data-disabled="false" data-name="Chile" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_cl">
+         <span class="shipping-text">
+          Chile
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="cx" data-defaultselected="false" data-disabled="false" data-name="Christmas Island" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_cx">
+         <span class="shipping-text">
+          Christmas Island
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="cc" data-defaultselected="false" data-disabled="false" data-name="Cocos (Keeling) Islands" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_cc">
+         <span class="shipping-text">
+          Cocos (Keeling) Islands
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="co" data-defaultselected="false" data-disabled="false" data-name="Colombia" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_co">
+         <span class="shipping-text">
+          Colombia
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="km" data-defaultselected="false" data-disabled="false" data-name="Comoros" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_km">
+         <span class="shipping-text">
+          Comoros
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="zr" data-defaultselected="false" data-disabled="false" data-name="Congo, The Democratic Republic Of The" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_zr">
+         <span class="shipping-text">
+          Congo, The Democratic Republic Of The
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="cg" data-defaultselected="false" data-disabled="false" data-name="Congo, The Republic of Congo" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_cg">
+         <span class="shipping-text">
+          Congo, The Republic of Congo
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="ck" data-defaultselected="false" data-disabled="false" data-name="Cook Islands" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_ck">
+         <span class="shipping-text">
+          Cook Islands
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="cr" data-defaultselected="false" data-disabled="false" data-name="Costa Rica" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_cr">
+         <span class="shipping-text">
+          Costa Rica
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="ci" data-defaultselected="false" data-disabled="false" data-name="Cote D'Ivoire" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_ci">
+         <span class="shipping-text">
+          Cote D'Ivoire
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="hr" data-defaultselected="false" data-disabled="false" data-name="Croatia (local name: Hrvatska)" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_hr">
+         <span class="shipping-text">
+          Croatia (local name: Hrvatska)
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="cw" data-defaultselected="false" data-disabled="false" data-name="Curacao" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_cw">
+         <span class="shipping-text">
+          Curacao
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="cy" data-defaultselected="false" data-disabled="false" data-name="Cyprus" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_cy">
+         <span class="shipping-text">
+          Cyprus
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="cz" data-defaultselected="false" data-disabled="false" data-name="Czech Republic" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_cz">
+         <span class="shipping-text">
+          Czech Republic
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="dk" data-defaultselected="false" data-disabled="false" data-name="Denmark" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_dk">
+         <span class="shipping-text">
+          Denmark
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="dj" data-defaultselected="false" data-disabled="false" data-name="Djibouti" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_dj">
+         <span class="shipping-text">
+          Djibouti
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="dm" data-defaultselected="false" data-disabled="false" data-name="Dominica" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_dm">
+         <span class="shipping-text">
+          Dominica
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="do" data-defaultselected="false" data-disabled="false" data-name="Dominican Republic" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_do">
+         <span class="shipping-text">
+          Dominican Republic
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="ec" data-defaultselected="false" data-disabled="false" data-name="Ecuador" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_ec">
+         <span class="shipping-text">
+          Ecuador
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="eg" data-defaultselected="false" data-disabled="false" data-name="Egypt" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_eg">
+         <span class="shipping-text">
+          Egypt
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="sv" data-defaultselected="false" data-disabled="false" data-name="El Salvador" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_sv">
+         <span class="shipping-text">
+          El Salvador
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="gq" data-defaultselected="false" data-disabled="false" data-name="Equatorial Guinea" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_gq">
+         <span class="shipping-text">
+          Equatorial Guinea
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="er" data-defaultselected="false" data-disabled="false" data-name="Eritrea" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_er">
+         <span class="shipping-text">
+          Eritrea
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="ee" data-defaultselected="false" data-disabled="false" data-name="Estonia" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_ee">
+         <span class="shipping-text">
+          Estonia
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="et" data-defaultselected="false" data-disabled="false" data-name="Ethiopia" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_et">
+         <span class="shipping-text">
+          Ethiopia
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="fk" data-defaultselected="false" data-disabled="false" data-name="Falkland Islands (Malvinas)" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_fk">
+         <span class="shipping-text">
+          Falkland Islands (Malvinas)
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="fo" data-defaultselected="false" data-disabled="false" data-name="Faroe Islands" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_fo">
+         <span class="shipping-text">
+          Faroe Islands
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="fj" data-defaultselected="false" data-disabled="false" data-name="Fiji" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_fj">
+         <span class="shipping-text">
+          Fiji
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="fi" data-defaultselected="false" data-disabled="false" data-name="Finland" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_fi">
+         <span class="shipping-text">
+          Finland
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="fr" data-defaultselected="false" data-disabled="false" data-name="France" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_fr">
+         <span class="shipping-text">
+          France
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="gf" data-defaultselected="false" data-disabled="false" data-name="French Guiana" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_gf">
+         <span class="shipping-text">
+          French Guiana
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="pf" data-defaultselected="false" data-disabled="false" data-name="French Polynesia" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_pf">
+         <span class="shipping-text">
+          French Polynesia
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="ga" data-defaultselected="false" data-disabled="false" data-name="Gabon" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_ga">
+         <span class="shipping-text">
+          Gabon
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="gm" data-defaultselected="false" data-disabled="false" data-name="Gambia" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_gm">
+         <span class="shipping-text">
+          Gambia
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="ge" data-defaultselected="false" data-disabled="false" data-name="Georgia" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_ge">
+         <span class="shipping-text">
+          Georgia
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="de" data-defaultselected="false" data-disabled="false" data-name="Germany" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_de">
+         <span class="shipping-text">
+          Germany
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="gh" data-defaultselected="false" data-disabled="false" data-name="Ghana" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_gh">
+         <span class="shipping-text">
+          Ghana
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="gi" data-defaultselected="false" data-disabled="false" data-name="Gibraltar" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_gi">
+         <span class="shipping-text">
+          Gibraltar
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="gr" data-defaultselected="false" data-disabled="false" data-name="Greece" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_gr">
+         <span class="shipping-text">
+          Greece
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="gl" data-defaultselected="false" data-disabled="false" data-name="Greenland" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_gl">
+         <span class="shipping-text">
+          Greenland
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="gd" data-defaultselected="false" data-disabled="false" data-name="Grenada" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_gd">
+         <span class="shipping-text">
+          Grenada
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="gp" data-defaultselected="false" data-disabled="false" data-name="Guadeloupe" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_gp">
+         <span class="shipping-text">
+          Guadeloupe
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="gu" data-defaultselected="false" data-disabled="false" data-name="Guam" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_gu">
+         <span class="shipping-text">
+          Guam
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="gt" data-defaultselected="false" data-disabled="false" data-name="Guatemala" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_gt">
+         <span class="shipping-text">
+          Guatemala
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="ggy" data-defaultselected="false" data-disabled="false" data-name="Guernsey" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_ggy">
+         <span class="shipping-text">
+          Guernsey
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="gn" data-defaultselected="false" data-disabled="false" data-name="Guinea" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_gn">
+         <span class="shipping-text">
+          Guinea
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="gw" data-defaultselected="false" data-disabled="false" data-name="Guinea-Bissau" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_gw">
+         <span class="shipping-text">
+          Guinea-Bissau
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="gy" data-defaultselected="false" data-disabled="false" data-name="Guyana" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_gy">
+         <span class="shipping-text">
+          Guyana
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="ht" data-defaultselected="false" data-disabled="false" data-name="Haiti" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_ht">
+         <span class="shipping-text">
+          Haiti
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="hn" data-defaultselected="false" data-disabled="false" data-name="Honduras" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_hn">
+         <span class="shipping-text">
+          Honduras
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="hk" data-defaultselected="false" data-disabled="false" data-name="Hong Kong,China" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_hk">
+         <span class="shipping-text">
+          Hong Kong,China
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="hu" data-defaultselected="false" data-disabled="false" data-name="Hungary" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_hu">
+         <span class="shipping-text">
+          Hungary
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="is" data-defaultselected="false" data-disabled="false" data-name="Iceland" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_is">
+         <span class="shipping-text">
+          Iceland
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="in" data-defaultselected="false" data-disabled="false" data-name="India" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_in">
+         <span class="shipping-text">
+          India
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="id" data-defaultselected="false" data-disabled="false" data-name="Indonesia" data-needchildren="true" data-role="item" data-selected="false">
+        <span class="css_flag css_id">
+         <span class="shipping-text">
+          Indonesia
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="iq" data-defaultselected="false" data-disabled="false" data-name="Iraq" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_iq">
+         <span class="shipping-text">
+          Iraq
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="ie" data-defaultselected="false" data-disabled="false" data-name="Ireland" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_ie">
+         <span class="shipping-text">
+          Ireland
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="il" data-defaultselected="false" data-disabled="false" data-name="Israel" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_il">
+         <span class="shipping-text">
+          Israel
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="it" data-defaultselected="false" data-disabled="false" data-name="Italy" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_it">
+         <span class="shipping-text">
+          Italy
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="jm" data-defaultselected="false" data-disabled="false" data-name="Jamaica" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_jm">
+         <span class="shipping-text">
+          Jamaica
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="jp" data-defaultselected="false" data-disabled="false" data-name="Japan" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_jp">
+         <span class="shipping-text">
+          Japan
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="jey" data-defaultselected="false" data-disabled="false" data-name="Jersey" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_jey">
+         <span class="shipping-text">
+          Jersey
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="jo" data-defaultselected="false" data-disabled="false" data-name="Jordan" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_jo">
+         <span class="shipping-text">
+          Jordan
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="kz" data-defaultselected="false" data-disabled="false" data-name="Kazakhstan" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_kz">
+         <span class="shipping-text">
+          Kazakhstan
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="ke" data-defaultselected="false" data-disabled="false" data-name="Kenya" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_ke">
+         <span class="shipping-text">
+          Kenya
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="ki" data-defaultselected="false" data-disabled="false" data-name="Kiribati" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_ki">
+         <span class="shipping-text">
+          Kiribati
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="kr" data-defaultselected="false" data-disabled="false" data-name="Korea" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_kr">
+         <span class="shipping-text">
+          Korea
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="ks" data-defaultselected="false" data-disabled="false" data-name="Kosovo" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_ks">
+         <span class="shipping-text">
+          Kosovo
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="kw" data-defaultselected="false" data-disabled="false" data-name="Kuwait" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_kw">
+         <span class="shipping-text">
+          Kuwait
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="kg" data-defaultselected="false" data-disabled="false" data-name="Kyrgyzstan" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_kg">
+         <span class="shipping-text">
+          Kyrgyzstan
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="la" data-defaultselected="false" data-disabled="false" data-name="Lao People's Democratic Republic" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_la">
+         <span class="shipping-text">
+          Lao People's Democratic Republic
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="lv" data-defaultselected="false" data-disabled="false" data-name="Latvia" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_lv">
+         <span class="shipping-text">
+          Latvia
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="lb" data-defaultselected="false" data-disabled="false" data-name="Lebanon" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_lb">
+         <span class="shipping-text">
+          Lebanon
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="ls" data-defaultselected="false" data-disabled="false" data-name="Lesotho" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_ls">
+         <span class="shipping-text">
+          Lesotho
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="lr" data-defaultselected="false" data-disabled="false" data-name="Liberia" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_lr">
+         <span class="shipping-text">
+          Liberia
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="ly" data-defaultselected="false" data-disabled="false" data-name="Libya" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_ly">
+         <span class="shipping-text">
+          Libya
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="li" data-defaultselected="false" data-disabled="false" data-name="Liechtenstein" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_li">
+         <span class="shipping-text">
+          Liechtenstein
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="lt" data-defaultselected="false" data-disabled="false" data-name="Lithuania" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_lt">
+         <span class="shipping-text">
+          Lithuania
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="lu" data-defaultselected="false" data-disabled="false" data-name="Luxembourg" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_lu">
+         <span class="shipping-text">
+          Luxembourg
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="mo" data-defaultselected="false" data-disabled="false" data-name="Macau,China" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_mo">
+         <span class="shipping-text">
+          Macau,China
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="mk" data-defaultselected="false" data-disabled="false" data-name="Macedonia" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_mk">
+         <span class="shipping-text">
+          Macedonia
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="mg" data-defaultselected="false" data-disabled="false" data-name="Madagascar" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_mg">
+         <span class="shipping-text">
+          Madagascar
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="mw" data-defaultselected="false" data-disabled="false" data-name="Malawi" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_mw">
+         <span class="shipping-text">
+          Malawi
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="my" data-defaultselected="false" data-disabled="false" data-name="Malaysia" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_my">
+         <span class="shipping-text">
+          Malaysia
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="mv" data-defaultselected="false" data-disabled="false" data-name="Maldives" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_mv">
+         <span class="shipping-text">
+          Maldives
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="ml" data-defaultselected="false" data-disabled="false" data-name="Mali" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_ml">
+         <span class="shipping-text">
+          Mali
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="mt" data-defaultselected="false" data-disabled="false" data-name="Malta" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_mt">
+         <span class="shipping-text">
+          Malta
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="mh" data-defaultselected="false" data-disabled="false" data-name="Marshall Islands" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_mh">
+         <span class="shipping-text">
+          Marshall Islands
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="mq" data-defaultselected="false" data-disabled="false" data-name="Martinique" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_mq">
+         <span class="shipping-text">
+          Martinique
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="mr" data-defaultselected="false" data-disabled="false" data-name="Mauritania" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_mr">
+         <span class="shipping-text">
+          Mauritania
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="mu" data-defaultselected="false" data-disabled="false" data-name="Mauritius" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_mu">
+         <span class="shipping-text">
+          Mauritius
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="yt" data-defaultselected="false" data-disabled="false" data-name="Mayotte" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_yt">
+         <span class="shipping-text">
+          Mayotte
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="mx" data-defaultselected="false" data-disabled="false" data-name="Mexico" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_mx">
+         <span class="shipping-text">
+          Mexico
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="fm" data-defaultselected="false" data-disabled="false" data-name="Micronesia" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_fm">
+         <span class="shipping-text">
+          Micronesia
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="md" data-defaultselected="false" data-disabled="false" data-name="Moldova" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_md">
+         <span class="shipping-text">
+          Moldova
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="mc" data-defaultselected="false" data-disabled="false" data-name="Monaco" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_mc">
+         <span class="shipping-text">
+          Monaco
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="mn" data-defaultselected="false" data-disabled="false" data-name="Mongolia" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_mn">
+         <span class="shipping-text">
+          Mongolia
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="mne" data-defaultselected="false" data-disabled="false" data-name="Montenegro" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_mne">
+         <span class="shipping-text">
+          Montenegro
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="ms" data-defaultselected="false" data-disabled="false" data-name="Montserrat" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_ms">
+         <span class="shipping-text">
+          Montserrat
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="ma" data-defaultselected="false" data-disabled="false" data-name="Morocco" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_ma">
+         <span class="shipping-text">
+          Morocco
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="mz" data-defaultselected="false" data-disabled="false" data-name="Mozambique" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_mz">
+         <span class="shipping-text">
+          Mozambique
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="mm" data-defaultselected="false" data-disabled="false" data-name="Myanmar" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_mm">
+         <span class="shipping-text">
+          Myanmar
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="na" data-defaultselected="false" data-disabled="false" data-name="Namibia" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_na">
+         <span class="shipping-text">
+          Namibia
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="nr" data-defaultselected="false" data-disabled="false" data-name="Nauru" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_nr">
+         <span class="shipping-text">
+          Nauru
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="bn" data-defaultselected="false" data-disabled="false" data-name="Negara Brunei Darussalam" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_bn">
+         <span class="shipping-text">
+          Negara Brunei Darussalam
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="np" data-defaultselected="false" data-disabled="false" data-name="Nepal" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_np">
+         <span class="shipping-text">
+          Nepal
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="nl" data-defaultselected="false" data-disabled="false" data-name="Netherlands" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_nl">
+         <span class="shipping-text">
+          Netherlands
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="an" data-defaultselected="false" data-disabled="false" data-name="Netherlands Antilles" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_an">
+         <span class="shipping-text">
+          Netherlands Antilles
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="nc" data-defaultselected="false" data-disabled="false" data-name="New Caledonia" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_nc">
+         <span class="shipping-text">
+          New Caledonia
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="nz" data-defaultselected="false" data-disabled="false" data-name="New Zealand" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_nz">
+         <span class="shipping-text">
+          New Zealand
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="ni" data-defaultselected="false" data-disabled="false" data-name="Nicaragua" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_ni">
+         <span class="shipping-text">
+          Nicaragua
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="ne" data-defaultselected="false" data-disabled="false" data-name="Niger" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_ne">
+         <span class="shipping-text">
+          Niger
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="ng" data-defaultselected="false" data-disabled="false" data-name="Nigeria" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_ng">
+         <span class="shipping-text">
+          Nigeria
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="nu" data-defaultselected="false" data-disabled="false" data-name="Niue" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_nu">
+         <span class="shipping-text">
+          Niue
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="nf" data-defaultselected="false" data-disabled="false" data-name="Norfolk Island" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_nf">
+         <span class="shipping-text">
+          Norfolk Island
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="mp" data-defaultselected="false" data-disabled="false" data-name="Northern Mariana Islands" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_mp">
+         <span class="shipping-text">
+          Northern Mariana Islands
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="no" data-defaultselected="false" data-disabled="false" data-name="Norway" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_no">
+         <span class="shipping-text">
+          Norway
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="om" data-defaultselected="false" data-disabled="false" data-name="Oman" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_om">
+         <span class="shipping-text">
+          Oman
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="other" data-defaultselected="false" data-disabled="false" data-name="Other Country" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_other">
+         <span class="shipping-text">
+          Other Country
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="pk" data-defaultselected="false" data-disabled="false" data-name="Pakistan" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_pk">
+         <span class="shipping-text">
+          Pakistan
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="pw" data-defaultselected="false" data-disabled="false" data-name="Palau" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_pw">
+         <span class="shipping-text">
+          Palau
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="ps" data-defaultselected="false" data-disabled="false" data-name="Palestine" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_ps">
+         <span class="shipping-text">
+          Palestine
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="pa" data-defaultselected="false" data-disabled="false" data-name="Panama" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_pa">
+         <span class="shipping-text">
+          Panama
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="pg" data-defaultselected="false" data-disabled="false" data-name="Papua New Guinea" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_pg">
+         <span class="shipping-text">
+          Papua New Guinea
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="py" data-defaultselected="false" data-disabled="false" data-name="Paraguay" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_py">
+         <span class="shipping-text">
+          Paraguay
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="pe" data-defaultselected="false" data-disabled="false" data-name="Peru" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_pe">
+         <span class="shipping-text">
+          Peru
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="ph" data-defaultselected="false" data-disabled="false" data-name="Philippines" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_ph">
+         <span class="shipping-text">
+          Philippines
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="pl" data-defaultselected="false" data-disabled="false" data-name="Poland" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_pl">
+         <span class="shipping-text">
+          Poland
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="pt" data-defaultselected="false" data-disabled="false" data-name="Portugal" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_pt">
+         <span class="shipping-text">
+          Portugal
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="pr" data-defaultselected="false" data-disabled="false" data-name="Puerto Rico" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_pr">
+         <span class="shipping-text">
+          Puerto Rico
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="qa" data-defaultselected="false" data-disabled="false" data-name="Qatar" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_qa">
+         <span class="shipping-text">
+          Qatar
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="re" data-defaultselected="false" data-disabled="false" data-name="Reunion" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_re">
+         <span class="shipping-text">
+          Reunion
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="ro" data-defaultselected="false" data-disabled="false" data-name="Romania" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_ro">
+         <span class="shipping-text">
+          Romania
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="ru" data-defaultselected="false" data-disabled="false" data-name="Russian Federation" data-needchildren="true" data-role="item" data-selected="false">
+        <span class="css_flag css_ru">
+         <span class="shipping-text">
+          Russian Federation
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="rw" data-defaultselected="false" data-disabled="false" data-name="Rwanda" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_rw">
+         <span class="shipping-text">
+          Rwanda
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="blm" data-defaultselected="false" data-disabled="false" data-name="Saint Barthelemy" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_blm">
+         <span class="shipping-text">
+          Saint Barthelemy
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="kn" data-defaultselected="false" data-disabled="false" data-name="Saint Kitts and Nevis" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_kn">
+         <span class="shipping-text">
+          Saint Kitts and Nevis
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="lc" data-defaultselected="false" data-disabled="false" data-name="Saint Lucia" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_lc">
+         <span class="shipping-text">
+          Saint Lucia
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="maf" data-defaultselected="false" data-disabled="false" data-name="Saint Martin" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_maf">
+         <span class="shipping-text">
+          Saint Martin
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="vc" data-defaultselected="false" data-disabled="false" data-name="Saint Vincent and the Grenadines" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_vc">
+         <span class="shipping-text">
+          Saint Vincent and the Grenadines
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="ws" data-defaultselected="false" data-disabled="false" data-name="Samoa" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_ws">
+         <span class="shipping-text">
+          Samoa
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="sm" data-defaultselected="false" data-disabled="false" data-name="San Marino" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_sm">
+         <span class="shipping-text">
+          San Marino
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="st" data-defaultselected="false" data-disabled="false" data-name="Sao Tome and Principe" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_st">
+         <span class="shipping-text">
+          Sao Tome and Principe
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="sa" data-defaultselected="false" data-disabled="false" data-name="Saudi Arabia" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_sa">
+         <span class="shipping-text">
+          Saudi Arabia
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="sn" data-defaultselected="false" data-disabled="false" data-name="Senegal" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_sn">
+         <span class="shipping-text">
+          Senegal
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="srb" data-defaultselected="false" data-disabled="false" data-name="Serbia" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_srb">
+         <span class="shipping-text">
+          Serbia
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="sc" data-defaultselected="false" data-disabled="false" data-name="Seychelles" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_sc">
+         <span class="shipping-text">
+          Seychelles
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="sl" data-defaultselected="false" data-disabled="false" data-name="Sierra Leone" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_sl">
+         <span class="shipping-text">
+          Sierra Leone
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="sg" data-defaultselected="false" data-disabled="false" data-name="Singapore" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_sg">
+         <span class="shipping-text">
+          Singapore
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="sx" data-defaultselected="false" data-disabled="false" data-name="Sint Maarten (Netherlands)" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_sx">
+         <span class="shipping-text">
+          Sint Maarten (Netherlands)
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="sk" data-defaultselected="false" data-disabled="false" data-name="Slovakia (Slovak Republic)" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_sk">
+         <span class="shipping-text">
+          Slovakia (Slovak Republic)
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="si" data-defaultselected="false" data-disabled="false" data-name="Slovenia" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_si">
+         <span class="shipping-text">
+          Slovenia
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="sb" data-defaultselected="false" data-disabled="false" data-name="Solomon Islands" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_sb">
+         <span class="shipping-text">
+          Solomon Islands
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="so" data-defaultselected="false" data-disabled="false" data-name="Somalia" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_so">
+         <span class="shipping-text">
+          Somalia
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="za" data-defaultselected="false" data-disabled="false" data-name="South Africa" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_za">
+         <span class="shipping-text">
+          South Africa
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="sgs" data-defaultselected="false" data-disabled="false" data-name="South Georgia and the South Sandwich Islands" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_sgs">
+         <span class="shipping-text">
+          South Georgia and the South Sandwich Islands
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="ss" data-defaultselected="false" data-disabled="false" data-name="South Sudan" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_ss">
+         <span class="shipping-text">
+          South Sudan
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="es" data-defaultselected="false" data-disabled="false" data-name="Spain" data-needchildren="true" data-role="item" data-selected="false">
+        <span class="css_flag css_es">
+         <span class="shipping-text">
+          Spain
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="lk" data-defaultselected="false" data-disabled="false" data-name="Sri Lanka" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_lk">
+         <span class="shipping-text">
+          Sri Lanka
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="pm" data-defaultselected="false" data-disabled="false" data-name="St. Pierre and Miquelon" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_pm">
+         <span class="shipping-text">
+          St. Pierre and Miquelon
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="sr" data-defaultselected="false" data-disabled="false" data-name="Suriname" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_sr">
+         <span class="shipping-text">
+          Suriname
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="sz" data-defaultselected="false" data-disabled="false" data-name="Swaziland" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_sz">
+         <span class="shipping-text">
+          Swaziland
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="se" data-defaultselected="false" data-disabled="false" data-name="Sweden" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_se">
+         <span class="shipping-text">
+          Sweden
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="ch" data-defaultselected="false" data-disabled="false" data-name="Switzerland" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_ch">
+         <span class="shipping-text">
+          Switzerland
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="tw" data-defaultselected="false" data-disabled="false" data-name="Taiwan,China" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_tw">
+         <span class="shipping-text">
+          Taiwan,China
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="tj" data-defaultselected="false" data-disabled="false" data-name="Tajikistan" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_tj">
+         <span class="shipping-text">
+          Tajikistan
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="tz" data-defaultselected="false" data-disabled="false" data-name="Tanzania" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_tz">
+         <span class="shipping-text">
+          Tanzania
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="th" data-defaultselected="false" data-disabled="false" data-name="Thailand" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_th">
+         <span class="shipping-text">
+          Thailand
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="tls" data-defaultselected="false" data-disabled="false" data-name="Timor-Leste" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_tls">
+         <span class="shipping-text">
+          Timor-Leste
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="tg" data-defaultselected="false" data-disabled="false" data-name="Togo" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_tg">
+         <span class="shipping-text">
+          Togo
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="to" data-defaultselected="false" data-disabled="false" data-name="Tonga" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_to">
+         <span class="shipping-text">
+          Tonga
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="tt" data-defaultselected="false" data-disabled="false" data-name="Trinidad and Tobago" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_tt">
+         <span class="shipping-text">
+          Trinidad and Tobago
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="tn" data-defaultselected="false" data-disabled="false" data-name="Tunisia" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_tn">
+         <span class="shipping-text">
+          Tunisia
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="tr" data-defaultselected="false" data-disabled="false" data-name="Turkey" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_tr">
+         <span class="shipping-text">
+          Turkey
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="tm" data-defaultselected="false" data-disabled="false" data-name="Turkmenistan" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_tm">
+         <span class="shipping-text">
+          Turkmenistan
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="tc" data-defaultselected="false" data-disabled="false" data-name="Turks and Caicos Islands" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_tc">
+         <span class="shipping-text">
+          Turks and Caicos Islands
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="tv" data-defaultselected="false" data-disabled="false" data-name="Tuvalu" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_tv">
+         <span class="shipping-text">
+          Tuvalu
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="ug" data-defaultselected="false" data-disabled="false" data-name="Uganda" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_ug">
+         <span class="shipping-text">
+          Uganda
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="ua" data-defaultselected="false" data-disabled="false" data-name="Ukraine" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_ua">
+         <span class="shipping-text">
+          Ukraine
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="ae" data-defaultselected="false" data-disabled="false" data-name="United Arab Emirates" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_ae">
+         <span class="shipping-text">
+          United Arab Emirates
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="uk" data-defaultselected="false" data-disabled="false" data-name="United Kingdom" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_uk">
+         <span class="shipping-text">
+          United Kingdom
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="us" data-defaultselected="false" data-disabled="false" data-name="United States" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_us">
+         <span class="shipping-text">
+          United States
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="uy" data-defaultselected="false" data-disabled="false" data-name="Uruguay" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_uy">
+         <span class="shipping-text">
+          Uruguay
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="uz" data-defaultselected="false" data-disabled="false" data-name="Uzbekistan" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_uz">
+         <span class="shipping-text">
+          Uzbekistan
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="vu" data-defaultselected="false" data-disabled="false" data-name="Vanuatu" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_vu">
+         <span class="shipping-text">
+          Vanuatu
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="va" data-defaultselected="false" data-disabled="false" data-name="Vatican City State (Holy See)" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_va">
+         <span class="shipping-text">
+          Vatican City State (Holy See)
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="ve" data-defaultselected="false" data-disabled="false" data-name="Venezuela" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_ve">
+         <span class="shipping-text">
+          Venezuela
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="vn" data-defaultselected="false" data-disabled="false" data-name="Vietnam" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_vn">
+         <span class="shipping-text">
+          Vietnam
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="vg" data-defaultselected="false" data-disabled="false" data-name="Virgin Islands (British)" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_vg">
+         <span class="shipping-text">
+          Virgin Islands (British)
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="vi" data-defaultselected="false" data-disabled="false" data-name="Virgin Islands (U.S.)" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_vi">
+         <span class="shipping-text">
+          Virgin Islands (U.S.)
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="wf" data-defaultselected="false" data-disabled="false" data-name="Wallis And Futuna Islands" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_wf">
+         <span class="shipping-text">
+          Wallis And Futuna Islands
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="ye" data-defaultselected="false" data-disabled="false" data-name="Yemen" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_ye">
+         <span class="shipping-text">
+          Yemen
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="zm" data-defaultselected="false" data-disabled="false" data-name="Zambia" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_zm">
+         <span class="shipping-text">
+          Zambia
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="eaz" data-defaultselected="false" data-disabled="false" data-name="Zanzibar" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_eaz">
+         <span class="shipping-text">
+          Zanzibar
+         </span>
+        </span>
+       </li>
+       <li class="address-select-item " data-code="zw" data-defaultselected="false" data-disabled="false" data-name="Zimbabwe" data-needchildren="false" data-role="item" data-selected="false">
+        <span class="css_flag css_zw">
+         <span class="shipping-text">
+          Zimbabwe
+         </span>
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div class="address-select" data-widget-cid="widget-87" style="width: 110px; z-index: 99; display: none; position: absolute; left: -9999px; top: -9999px;">
+      <div class="filter-list-container">
+       <input class="filter-input" placeholder="Search" type="text"/>
+       <i class="seach">
+       </i>
+      </div>
+      <ul class="address-select-content" data-role="content">
+       <li class="address-select-item address-select-selected" data-code="" data-defaultselected="false" data-disabled="false" data-name="" data-role="item" data-selected="true">
+        <span class="shipping-text">
+        </span>
+       </li>
+      </ul>
+     </div>
+     <div class="address-select" data-widget-cid="widget-88" style="width: 110px; z-index: 99; display: none; position: absolute; left: -9999px; top: -9999px;">
+      <div class="filter-list-container">
+       <input class="filter-input" placeholder="Search" type="text"/>
+       <i class="seach">
+       </i>
+      </div>
+      <ul class="address-select-content" data-role="content">
+       <li class="address-select-item address-select-selected" data-code="" data-defaultselected="false" data-disabled="false" data-name="" data-role="item" data-selected="true">
+        <span class="shipping-text">
+        </span>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <div class="s-vat-number notranslate" id="j-address-vat" style="display: none;">
+    </div>
+   </div>
+   <div class="shipping-layer-main" id="j-shipping-company-list">
+    <div class="s-company-title">
+     Choose Shipping Method
+    </div>
+    <div class="s-company-table-wrap">
+     <table class="s-company-table">
+      <thead>
+       <tr>
+        <td class="col-ope">
+        </td>
+        <td class="col-cam">
+         Shipping Company
+        </td>
+        <td>
+         Estimated Delivery Time
+        </td>
+        <td>
+         Shipping Cost
+        </td>
+        <td>
+         Tracking Information
+        </td>
+       </tr>
+      </thead>
+      <tbody>
+       <tr>
+        <td class="col-ope">
+         <input checked="checked" data-commitday="60" data-free-info="" data-full-name="China Post Ordinary Small Packet Plus" data-name="YANWEN_JYT" data-priceformat="0.00" data-priceformatstr="US $0.00" data-time="25-48" name="shipping-company" type="radio" value="YANWEN_JYT"/>
+        </td>
+        <td class="col-cam">
+         China Post Ordinary Small Packet Plus
+         <div class="shipping-info">
+         </div>
+        </td>
+        <td>
+         25-48 days
+        </td>
+        <td>
+         <span class="s-freeshipping">
+          Free Shipping
+         </span>
+        </td>
+        <td>
+         Not available
+        </td>
+       </tr>
+       <tr>
+        <td class="col-ope">
+         <input data-commitday="60" data-free-info="" data-full-name="SunYou Economic Air Mail" data-name="SUNYOU_ECONOMY" data-priceformat="0.53" data-priceformatstr="US $0.53" data-time="30-50" name="shipping-company" type="radio" value="SUNYOU_ECONOMY"/>
+        </td>
+        <td class="col-cam">
+         SunYou Economic Air Mail
+         <div class="shipping-info">
+         </div>
+        </td>
+        <td>
+         30-50 days
+        </td>
+        <td>
+         <span class="s-price">
+          US $0.53
+         </span>
+        </td>
+        <td>
+         Not available
+        </td>
+       </tr>
+       <tr>
+        <td class="col-ope">
+         <input data-commitday="60" data-free-info="" data-full-name="China Post Registered Air Mail" data-name="CPAM" data-priceformat="3.16" data-priceformatstr="US $3.16" data-time="20-38" name="shipping-company" type="radio" value="CPAM"/>
+        </td>
+        <td class="col-cam">
+         <img alt="China Post Registered Air Mail" src="https://ae01.alicdn.com/wimg/buyer/single/china-post-air-mail.jpg"/>
+         <div class="shipping-info">
+         </div>
+        </td>
+        <td>
+         20-38 days
+        </td>
+        <td>
+         <span class="s-price">
+          US $3.16
+         </span>
+        </td>
+        <td>
+         Not available
+        </td>
+       </tr>
+       <tr>
+        <td class="col-ope">
+         <input data-commitday="60" data-free-info="" data-full-name="AliExpress Standard Shipping" data-name="CAINIAO_STANDARD" data-priceformat="3.16" data-priceformatstr="US $3.16" data-time="20-40" name="shipping-company" type="radio" value="CAINIAO_STANDARD"/>
+        </td>
+        <td class="col-cam">
+         AliExpress Standard Shipping
+         <div class="shipping-info">
+         </div>
+        </td>
+        <td>
+         20-40 days
+        </td>
+        <td>
+         <span class="s-price">
+          US $3.16
+         </span>
+        </td>
+        <td>
+         Not available
+        </td>
+       </tr>
+       <tr>
+        <td class="col-ope">
+         <input data-commitday="27" data-free-info="" data-full-name="EMS" data-name="EMS" data-priceformat="23.09" data-priceformatstr="US $23.09" data-time="7-15" name="shipping-company" type="radio" value="EMS"/>
+        </td>
+        <td class="col-cam">
+         <img alt="EMS" src="https://ae01.alicdn.com/wimg/buyer/single/icon-ems.jpg"/>
+         <div class="shipping-info">
+         </div>
+        </td>
+        <td>
+         7-15 days
+        </td>
+        <td>
+         <span class="s-price">
+          US $23.09
+         </span>
+        </td>
+        <td>
+         Available
+        </td>
+       </tr>
+       <tr>
+        <td class="col-ope">
+         <input data-commitday="39" data-free-info="" data-full-name="Aramex" data-name="ARAMEX" data-priceformat="33.14" data-priceformatstr="US $33.14" data-time="20-39" name="shipping-company" type="radio" value="ARAMEX"/>
+        </td>
+        <td class="col-cam">
+         Aramex
+         <div class="shipping-info">
+         </div>
+        </td>
+        <td>
+         20-39 days
+        </td>
+        <td>
+         <span class="s-price">
+          US $33.14
+         </span>
+        </td>
+        <td>
+         Available
+        </td>
+       </tr>
+       <tr>
+        <td class="col-ope">
+         <input data-commitday="23" data-free-info="" data-full-name="DHL" data-name="DHL" data-priceformat="71.04" data-priceformatstr="US $71.04" data-time="7-15" name="shipping-company" type="radio" value="DHL"/>
+        </td>
+        <td class="col-cam">
+         <img alt="DHL" src="https://ae01.alicdn.com/wimg/buyer/single/icon-dhl.jpg"/>
+         <div class="shipping-info">
+         </div>
+        </td>
+        <td>
+         7-15 days
+        </td>
+        <td>
+         <span class="s-price">
+          US $71.04
+         </span>
+        </td>
+        <td>
+         Available
+        </td>
+       </tr>
+       <tr>
+        <td class="col-ope">
+         <input data-commitday="23" data-free-info="" data-full-name="UPS Express Saver" data-name="UPS" data-priceformat="74.99" data-priceformatstr="US $74.99" data-time="7-15" name="shipping-company" type="radio" value="UPS"/>
+        </td>
+        <td class="col-cam">
+         <img alt="UPS Express Saver" src="https://ae01.alicdn.com/wimg/buyer/single/icon-ups-s.gif"/>
+         <div class="shipping-info">
+         </div>
+        </td>
+        <td>
+         7-15 days
+        </td>
+        <td>
+         <span class="s-price">
+          US $74.99
+         </span>
+        </td>
+        <td>
+         Available
+        </td>
+       </tr>
+      </tbody>
+     </table>
+    </div>
+   </div>
+  </div>
+  <div class="ui-window-btn" data-role="buttons">
+   <input class="ui-button ui-button-normal ui-button-medium" data-role="yes" style="display: inline-block;" type="button" value="OK"/>
+  </div>
+ </div>
+</div>
